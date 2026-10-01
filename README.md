@@ -14,6 +14,9 @@ I bring experience across Python, embedded systems, and hardware-software integr
 
 ## Selected projects
 
+### [Industrial PPE & Safety Detection](https://github.com/PrashantSinghpns/Industrial-PPE-Safety-Detection)
+A computer-vision safety-monitoring system using Python, OpenCV, and YOLO. It supports image, video, and webcam inference, PPE violation detection, evidence screenshots, CSV incident logging, and an ONNX/edge-deployment path.
+
 ### [Edge AI Wildlife Surveillance](https://github.com/PrashantSinghpns/edge-ai-wildlife-surveillance)
 A portfolio reconstruction of an edge camera architecture for wildlife monitoring and intrusion detection. It demonstrates camera capture, YOLOv8 inference, event filtering, MQTT telemetry, device control, RTSP streaming, and Linux deployment patterns for Raspberry Pi-class hardware.
 
