@@ -17,11 +17,11 @@ I bring experience across Python, embedded systems, and hardware-software integr
 ### [Edge AI Wildlife Surveillance](https://github.com/PrashantSinghpns/edge-ai-wildlife-surveillance)
 A portfolio reconstruction of an edge camera architecture for wildlife monitoring and intrusion detection. It demonstrates camera capture, YOLOv8 inference, event filtering, MQTT telemetry, device control, RTSP streaming, and Linux deployment patterns for Raspberry Pi-class hardware.
 
+### [Assistive Vision Smart Glasses](https://github.com/PrashantSinghpns/assistive-vision-smart-glasses)
+An academic team project for accessible interaction on Raspberry Pi. It uses face identification through pretrained dlib embeddings, QR/barcode decoding, proximity sensing, and spoken feedback. The repository is a reconstructed reference implementation that still requires validation on the original hardware.
+
 ### [Heart Disease Prediction](https://github.com/PrashantSinghpns/heart-disease-prediction)
 An educational machine-learning application built with scikit-learn and Streamlit. It includes preprocessing, model comparison, a reproducible training workflow, and an interactive prediction interface. The included KNN model achieved **89.13% test accuracy** and **90.29% F1** on one held-out test split.
-
-### Assistive Vision Smart Glasses
-An academic team project using Raspberry Pi and Python for face recognition, QR/barcode decoding, proximity sensing, and spoken feedback.
 
 ## Professional experience
 
