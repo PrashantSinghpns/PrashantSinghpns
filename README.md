@@ -20,6 +20,9 @@ A portfolio reconstruction of an edge camera architecture for wildlife monitorin
 ### [Assistive Vision Smart Glasses](https://github.com/PrashantSinghpns/assistive-vision-smart-glasses)
 An academic team project for accessible interaction on Raspberry Pi. It uses face identification through pretrained dlib embeddings, QR/barcode decoding, proximity sensing, and spoken feedback. The repository is a reconstructed reference implementation that still requires validation on the original hardware.
 
+### [Ford Used-Car Price Prediction](https://github.com/PrashantSinghpns/ford-price-prediction)
+A leakage-safe scikit-learn regression workflow with one-hot encoding, pipeline-based preprocessing, baseline comparison, and reproducible evaluation. On the supplied dataset, its selected random forest achieved **£837.36 MAE**, **£1,218.05 RMSE**, and **R² 0.9336** on a held-out test set.
+
 ### [Heart Disease Prediction](https://github.com/PrashantSinghpns/heart-disease-prediction)
 An educational machine-learning application built with scikit-learn and Streamlit. It includes preprocessing, model comparison, a reproducible training workflow, and an interactive prediction interface. The included KNN model achieved **89.13% test accuracy** and **90.29% F1** on one held-out test split.
 
