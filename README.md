@@ -1,6 +1,6 @@
 # Prashant Singh
 
-**Early-career software engineer focused on applied machine learning, computer vision, and model deployment.**
+**Associate Software engineer focused on applied machine learning, computer vision, and model deployment.**
 
 I build Python ML workflows and camera-based inference systems, drawing on internship experience with Raspberry Pi/Linux, OpenCV, YOLO, and hardware-software integration. I am seeking junior AI/ML and Computer Vision Engineer opportunities.
 
